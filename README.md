@@ -4,7 +4,7 @@ Here we are containerizing python django application using docker.
 tzdata provides timezone information
 
 While writing the Dockerfile- <br>
-Step 1: Take the ubuntu version
+Step 1: Take the ubuntu version<br>
 Step 2: Create a working directory (WORKDIR /app)
 Step 3: Copy the data/files into working directory (/app)
         Initial step it to copy the requirements.txt file
